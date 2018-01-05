@@ -175,7 +175,7 @@ t.generate_bracket("single", True)
 root = tkinter.Tk()
 
 """
-BRACKET DRAWING PRROF OF CONCEPT
+BRACKET DRAWING PROOF OF CONCEPT
 """
 
 HEIGHT = 1000  # root.winfo_screenheight()
