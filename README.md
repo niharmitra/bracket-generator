@@ -31,7 +31,7 @@ Content to add for brackets include:
 Currently all output is done on the command line and with minimal functionality
 
 To add for output:
- - Standalone GUI display (tkinder)
+ - Standalone GUI display (tkinter)
  - Web app display 
  - Mobile application display
  - Printable display
